@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 11 08:42:27 EDT 2019
+09d982e5b94dfb61c9f162ebed8644b6a8739a30@localhost\:8080>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1565527347836
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-clean-plugin\:pom\:2.5 from/to central (https\://repo.maven.apache.org/maven2)\: Software caused connection abort\: socket write error
